@@ -1,4 +1,4 @@
-## Yapmış olduğum makine öğrenmesi projelerini bu repo içinde topladım.
+## Yapmış olduğum makine öğrenmesi projelerini bu repo içinde topladım. 
 
 
 ## Proje 1: scoutiumSolutionGK
